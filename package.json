@@ -45,7 +45,7 @@
     "rollup-plugin-node-globals": "^1.1.0",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-watch": "^3.2.2",
-    "semver": "^6.1.0",
+    "semver": "^7.3.2",
     "shelljs": "^0.8.3",
     "uglify-js": "^3.0.3"
   },
