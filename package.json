@@ -35,7 +35,7 @@
     "@babel/preset-env": "7.1.6",
     "documentation": "9.0.0-alpha.1",
     "http-server": "^0.10.0",
-    "inquirer": "^3.0.6",
+    "inquirer": "^8.1.1",
     "jest": "23.6.0",
     "rimraf": "^2.6.1",
     "rollup": "0.41.6",
