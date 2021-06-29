@@ -36,7 +36,7 @@
     "documentation": "9.0.0-alpha.1",
     "http-server": "^0.10.0",
     "inquirer": "^3.0.6",
-    "jest": "23.6.0",
+    "jest": "27.0.6",
     "rimraf": "^2.6.1",
     "rollup": "0.41.6",
     "rollup-plugin-babel": "4.0.3",
